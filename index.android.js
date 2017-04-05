@@ -6,4 +6,4 @@ import React from 'react';
 import { AppRegistry } from 'react-native';
 import Root from './app/root';
 //注册
-AppRegistry.registerComponent('iShiWuPai', () => Root);
+AppRegistry.registerComponent('FeedpaiDemo', () => Root);
