@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/qjj/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_e36ed6b30a38f3125246818836298d8fcc4fb0b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qjj/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_0942edff6ba0a409b3d37d02e78457436e80799f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qjj/.android/build-cache/501a4f41ae9fb096e806c23372e2359b53a767d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/classes_718e2da40245c48f8393886577197fa0a58448e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qjj/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_7a8bcd7a8f3ec7f9087724a64408d540a92cd3c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qjj/.android/build-cache/429ee31f45ed45a5452d2661c8aee953c6a60e94/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_197e1ad75d95fb88a7f91c6549b4d6ccd7b2b86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qjj/.android/build-cache/429ee31f45ed45a5452d2661c8aee953c6a60e94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/classes_727ab9a977e685259d52d7fa4456093c4bb3ba14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qjj/reactProjects/react-native-iShiWuPai/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11602ffeaae3e73701baeaa0c976bfb7b37c533f">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/classes_b8ba8a54ae21e19ae14aa08ba05942281392b0bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qjj/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_08a2e27fef4dc54cbaaed3bec5934fcc8abbf5cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qjj/.android/build-cache/501a4f41ae9fb096e806c23372e2359b53a767d3/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="/home/qjj/reactProjects/react-native-iShiWuPai/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_b9b66ceebafd91f76699aa79c899ba924c2b8fe5.jar" />
+    </item>
+
+</items>
